@@ -934,56 +934,56 @@ textarea {
 
 @font-face {
   font-family: "Raleway";
-  src: url(/assets/fonts/raleway/Raleway-Medium.ttf);
+  src: url(./assets/fonts/raleway/Raleway-Medium.ttf);
   font-weight: 500;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: "Raleway";
-  src: url(/assets/fonts/raleway/Raleway-MediumItalic.ttf);
+  src: url(./assets/fonts/raleway/Raleway-MediumItalic.ttf);
   font-weight: 500;
   font-style: italic;
   font-display: swap;
 }
 @font-face {
   font-family: "Raleway";
-  src: url(/assets/fonts/raleway/Raleway-Regular.ttf);
+  src: url(./assets/fonts/raleway/Raleway-Regular.ttf);
   font-weight: 400;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: "Raleway";
-  src: url(/assets/fonts/raleway/Raleway-Italic.ttf);
+  src: url(./assets/fonts/raleway/Raleway-Italic.ttf);
   font-weight: 400;
   font-style: italic;
   font-display: swap;
 }
 @font-face {
   font-family: "Montserrat";
-  src: url(/assets/fonts/montserrat/Montserrat-Regular.ttf);
+  src: url(./assets/fonts/montserrat/Montserrat-Regular.ttf);
   font-weight: 400;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: "Montserrat";
-  src: url(/assets/fonts/montserrat/Montserrat-Italic.ttf);
+  src: url(./assets/fonts/montserrat/Montserrat-Italic.ttf);
   font-weight: 400;
   font-style: italic;
   font-display: swap;
 }
 @font-face {
   font-family: "Montserrat";
-  src: url(/assets/fonts/montserrat/Montserrat-Medium.ttf);
+  src: url(./assets/fonts/montserrat/Montserrat-Medium.ttf);
   font-weight: 500;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: "Montserrat";
-  src: url(/assets/fonts/montserrat/Montserrat-MediumItalic.ttf);
+  src: url(./assets/fonts/montserrat/Montserrat-MediumItalic.ttf);
   font-weight: 500;
   font-style: italic;
   font-display: swap;
@@ -1403,7 +1403,7 @@ body::-webkit-scrollbar-thumb {
   right: 0;
   width: 35vw;
   height: 100vh;
-  background-image: url("/assets/images/menu_background.png");
+  background-image: url("./assets/images/menu_background.png");
   background-size: cover;
   background-position: 85% bottom;
   background-repeat: no-repeat;
@@ -2358,7 +2358,7 @@ body::-webkit-scrollbar-thumb {
 @media only screen and (max-width: 1439px) {
   .cover {
     padding-bottom: 43px;
-    background-image: url("/assets/images/cover_background_768.png");
+    background-image: url("./assets/images/cover_background_768.png");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -2368,7 +2368,7 @@ body::-webkit-scrollbar-thumb {
 @media only screen and (max-width: 767px) {
   .cover {
     padding-bottom: 95px;
-    background-image: url("/assets/images/cover_background.png");
+    background-image: url("./assets/images/cover_background.png");
   }
 }
 @media only screen and (max-width: 427px) {
@@ -3323,7 +3323,7 @@ body::-webkit-scrollbar-thumb {
 }
 
 .feedback {
-  background-image: url("/assets/images/feedback_background.png");
+  background-image: url("./assets/images/feedback_background.png");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -3834,7 +3834,7 @@ body::-webkit-scrollbar-thumb {
 
 .words {
   padding: 161px 0;
-  background-image: url("/assets/images/words_background.png");
+  background-image: url("./assets/images/words_background.png");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
